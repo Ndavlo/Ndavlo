@@ -1,4 +1,4 @@
-<h1 text-aling: center> Nicolás David López </h1>
+<h1 text-aling= "center"> Nicolás David López </h1>
 <h3> Full Stack Developer </h3>
 
 
