@@ -1,11 +1,12 @@
-<h1 background-image> Nicolás David López </h1>
-<h2> Full Stack Developer </h2>
+# Nicolás David López
+Full Stack Developer
 
 
 ```javascript
 const nicolasDavid = {
-  code: [Javascript, Python, HTML, CSS],
-  tools: [React, SqlAlchemy, Flask, Bootstrap, Jest,],
+  frontEnd: [Javascript, React, CSS, Bootstrap],
+  backEnd: [Python, SqlAlchemy, Flask],
   currentlyLearning: [Typescript, ReactNative]
 }
 ```
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
