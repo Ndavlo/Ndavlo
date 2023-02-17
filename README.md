@@ -9,7 +9,7 @@ const nicolasDavid = {
   recreation: ['Music', 'Traveling', 'Gaming']
 };
 ```
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
 
 
 ### 📫 Get In Touch
