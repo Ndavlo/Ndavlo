@@ -2,11 +2,15 @@
 ![Banner NicolasDavid](https://user-images.githubusercontent.com/116603604/219530412-9cac266a-6279-476b-823b-88db99878c17.png)
 ```javascript
 const nicolasDavid = {
-  frontEnd: ['JavaScript', 'React', 'CSS', 'Bootstrap'],
-  backEnd: ['Python', 'SqlAlchemy', 'Flask'],
-  currentlyLearning: ['TypeScript', 'ReactNative'],
+ technologies: {
+    frontEnd: ['JavaScript', 'React', 'CSS', 'Bootstrap'],
+    backEnd: ['Python', 'SqlAlchemy', 'Flask'],
+    currentlyLearning: ['TypeScript', 'ReactNative']
+  },
+ forFun:{
   interests: ['AI', 'PromptEngineering', 'Entrepreneurship', 'Startups', 'Astronomy', 'Science'],
   recreation: ['Music', 'Traveling', 'Gaming']
+  }
 };
 ```
 <div align="center" dir="auto">
