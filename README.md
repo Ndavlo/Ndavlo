@@ -1,5 +1,6 @@
 
-<main style="background-image: url('[img_girl.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNkYTRhZmEyZmUxYThkNzRjOWRjMTFhOTY4YzBlNTA0OTAxMGU3NiZjdD1n/WrUOlEoYhJ6wog4hCJ/giphy.gif)');">
+<main>
+ ![giphy](https://user-images.githubusercontent.com/116603604/219517330-cd9a75c7-fa78-4e06-972f-94d941f252b1.gif)
 <h1 background-image> Nicolás David López </h1>
 <h2> Full Stack Developer </h2>
  </main>
