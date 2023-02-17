@@ -8,6 +8,5 @@ const nicolasDavid = {
   currentlyLearning: [Typescript, ReactNative],
   interests: [AI, PromptEngineering, Entrepreneurship, Startups, Astronomy, Science]
 }
-}
 ```
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/python.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
