@@ -1,17 +1,17 @@
 <h1> Nicolás David López </h1>
 <h2> Full Stack Developer </h2>
-<p>{<br></br>
-  "JavaScript": true,<br></br>
-  "Python": true,<br></br>
-  "React": true,<br></br>
-  "HTML": true,<br></br>
-  "CSS": true,<br></br>
-  "Bootstrap": true,<br></br>
-  "Flask": true,<br></br>
-  "Sqlalchemy": true,<br></br>
-  "GIT": true,<br></br>
-  "JEST": true<br></br>
-}</p>
+<p>}</p>
+<p>"JavaScript": true,</p>
+  <p>"Python": true,</p>
+ <p>"React": true,</p>
+ <p>"HTML": true,</p>
+ <p>"CSS": true,</p>
+ <p>"Bootstrap": true,</p>
+ <p>"Flask": true,</p>
+ <p>"Sqlalchemy": true,</p>
+ <p>"GIT": true,</p>
+ <p>"JEST": true</p>
+<p>}</p>
 
 <p> Currently learning Typescript </p>
 
