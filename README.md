@@ -1,5 +1,3 @@
-
-[giphy](https://user-images.githubusercontent.com/116603604/219517330-cd9a75c7-fa78-4e06-972f-94d941f252b1.gif)
 <h1 background-image> Nicolás David López </h1>
 <h2> Full Stack Developer </h2>
 <p>}</p>
