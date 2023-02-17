@@ -9,4 +9,4 @@ const nicolasDavid = {
   currentlyLearning: [Typescript, ReactNative]
 }
 ```
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
