@@ -1,12 +1,16 @@
 # Hi there, I am Nicolás David.
 Full Stack Developer.
 
+
+
+![NicolasDavidRoom](https://user-images.githubusercontent.com/116603604/219526299-ca84001b-c3fd-4856-a06e-029dc93c2cc1.png)
+
 ```javascript
 const nicolasDavid = {
   frontEnd: ['JavaScript', 'React', 'CSS', 'Bootstrap'],
   backEnd: ['Python', 'SqlAlchemy', 'Flask'],
   currentlyLearning: ['TypeScript', 'ReactNative'],
-  interests: ['AI', 'PromptEngineering', 'Entrepreneurship', 'Startups', 'Traveling', 'Gaming', 'Astronomy', 'Science']
+  interests: ['AI', 'PromptEngineering', 'Entrepreneurship', 'Startups', 'Music','Traveling', 'Gaming', 'Astronomy', 'Science']
 };
 ```
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/python.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
