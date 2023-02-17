@@ -1,6 +1,6 @@
-<main><h1 background-image> Nicolás David López </h1>
+<em><h1 background-image> Nicolás David López </h1>
 <h2> Full Stack Developer </h2>
-</main>
+</em>
 
 ```javascript
 const nicolasDavid = {
