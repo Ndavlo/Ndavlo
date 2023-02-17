@@ -5,7 +5,8 @@ const nicolasDavid = {
   frontEnd: ['JavaScript', 'React', 'CSS', 'Bootstrap'],
   backEnd: ['Python', 'SqlAlchemy', 'Flask'],
   currentlyLearning: ['TypeScript', 'ReactNative'],
-  interests: ['AI', 'PromptEngineering', 'Entrepreneurship', 'Startups', 'Music','Traveling', 'Gaming', 'Astronomy', 'Science']
+  interests: ['AI', 'PromptEngineering', 'Entrepreneurship', 'Startups', 'Astronomy', 'Science'],
+  recreation: ['Music', 'Traveling', 'Gaming']
 };
 ```
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/python.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"><span></span><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
