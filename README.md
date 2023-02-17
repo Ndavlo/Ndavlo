@@ -9,11 +9,16 @@ const nicolasDavid = {
   recreation: ['Music', 'Traveling', 'Gaming']
 };
 ```
+<div align="center" dir="auto">
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+</div>
 
-
-### 📫 Get In Touch
+<br>
+<h3 align="center">📫 Get In Touch</h3>
+<br>
+<div align="center">
 <a href="https://www.linkedin.com/in/nicolasdavidlopez/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="Nicolas David linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:nicolasdl99@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
+</div>
