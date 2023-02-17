@@ -1,6 +1,5 @@
-# Nicolás David López
-Full Stack Developer
-
+# Hi there, I am Nicolás David.
+## Full Stack Developer.
 
 ```javascript
 const nicolasDavid = {
