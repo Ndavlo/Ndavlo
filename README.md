@@ -1,8 +1,8 @@
-<h1 text-aling= "center"> Nicolás David López </h1>
-<h3> Full Stack Developer </h3>
+<h1> Nicolás David López </h1>
+<h2> Full Stack Developer </h2>
+<h4>JavaScript | Python | React | HTML | CSS | Bootstrap | Flask | Sqlalchemy | GIT | JEST</h4>
 
-
-
+<p> Currently learning Typescript </p>
 
 <!--
 **Ndavlo/Ndavlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
